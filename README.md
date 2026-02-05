@@ -1,3 +1,0 @@
-﻿# ThinkPython2nd-Edition
-
-Think Python 2nd Edition | Concepts, Examples & Exercises in Python
